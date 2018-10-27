@@ -8,7 +8,7 @@ We've covered a lot of JavaScript concepts, but now it's time to put the concept
 
 1. Practice using the `const` and `let` variables in JavaScript
 
-## Instructions
+## Instructions 
 
 You might notice a few new things in this lesson that we haven't encountered
 before. Don't worry, we'll walk you through them.
